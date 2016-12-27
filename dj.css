@@ -3,7 +3,7 @@
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
-    color: #fff !important;
+    color: #000 !important;
     font-weight: bold;
     text-shadow: 2px 0px 11px, #dd00ff;
 }
@@ -33,7 +33,7 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(0,0,0,0.5) !important;
 }
 .header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
-    background: hsla(359,100%,35%,0.75) !important;
+    background: #15ff00 !important;
 }
 #app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
     background: rgba(21, 255, 0, 0.75)!important;
