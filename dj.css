@@ -33,13 +33,13 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(0,0,0,0.9) !important;
 }
 .header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
-    background: rgba(0, 100, 10,0.75) !important;
+    background: #129e00 !important;
 }
 #app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
     background: rgba(21, 255, 0, 0.75)!important;
 }
 .app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
-    color: rgba(40, 120, 60, 1)!important;
+    color: #129e00 !important;
 }
 .icon-staff {
     background-position: 35px 520px !important;
@@ -51,7 +51,7 @@ background: rgba(0,0,0,0.5) !important;
     background-color: rgba(0, 0, 0, 0.5) !important;
 }
 #chat .welcome {
-    color: #fff !important; !important;
+    color: #FFF !important; 
 }
 #chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
     background: linear-gradient(to left, rgba(37,185,97,0.6) 0%,rgba(0,0,0,0.75) 100%) !important;
