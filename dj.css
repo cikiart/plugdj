@@ -3,7 +3,7 @@
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
-    color: #000 !important;
+    color: rgba(0, 0, 0) !important;
     font-weight: bold;
     text-shadow: 2px 0px 11px, #dd00ff;
 }
