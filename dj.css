@@ -30,10 +30,10 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(0, 0, 0, 0.85) !important;
 }
 #room .app-right {
-    background: rgba(0,0,0,0.5) !important;
+    background: rgba(0,0,0,0.9) !important;
 }
 .header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
-    background: #15ff00 !important;
+    background: rgba(0, 100, 10,0.75) !important;
 }
 #app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
     background: rgba(21, 255, 0, 0.75)!important;
@@ -51,7 +51,7 @@ background: rgba(0,0,0,0.5) !important;
     background-color: rgba(0, 0, 0, 0.25) !important;
 }
 #chat .welcome {
-    color: #000 !important;
+    color: rgba(37,185,97,0.3) !important;
 }
 #chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
     background: linear-gradient(to left, rgba(37,185,97,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
