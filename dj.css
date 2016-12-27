@@ -3,7 +3,7 @@
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
-    color: rgba(0, 0, 0) !important;
+    color: rgba(255,255,255,1) !important;
     font-weight: bold;
     text-shadow: 2px 0px 11px, #dd00ff;
 }
@@ -11,14 +11,14 @@
     background: rgba(0, 0, 0, 0.85) !important;
 }
 #volume .slider {
-    background-color: rgba(0, 0, 0, 0) !important;
-    box-shadow: 0px -19px 0px 6px rgba(0, 0, 0, 0), 0px 18px 0px 6px rgba(0, 0, 0, 0) !important;
+    background-color: rgba(0, 0, 0, 1) !important;
+    box-shadow: 0px -19px 0px 6px rgba(0, 0, 0, 1), 0px 18px 0px 6px rgba(0, 0, 0, 1) !important;
 }
 #rcs-menu {
 background: rgba(0,0,0,0.5) !important;
 }
 #footer, .app-right {
-    background: rgba(0, 0, 0, 0.75) !important;
+    background: rgba(0, 0, 0, 0.95) !important;
 }
 #playlist-panel, #user-view, #waitlist .list .sortable-placeholder, #room-settings {
     background: rgba(0, 0, 0, 0.95) !important;
@@ -48,20 +48,20 @@ background: rgba(0,0,0,0.5) !important;
     border-bottom: 1px solid #15ff00 !important;
 }
 #chat .emote, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome, #chat .cm, #chat .emote:nth-child(2n+1),#chat .message:nth-child(2n+1), #chat .moderation:nth-child(2n+1), #chat .skip:nth-child(2n+1), #chat .system:nth-child(2n+1), #chat .update:nth-child(2n+1), #chat .welcome:nth-child(2n+1), #chat .cm:nth-child(2n+1) {
-    background-color: rgba(0, 0, 0, 0.25) !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
 }
 #chat .welcome {
-    color: rgba(37,185,97,0.3) !important;
+    color: rgba(37,185,97,0.9) !important;
 }
 #chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
-    background: linear-gradient(to left, rgba(37,185,97,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
+    background: linear-gradient(to left, rgba(37,185,97,0.6) 0%,rgba(0,0,0,0.75) 100%) !important;
     border-left: rgba(40, 120, 60, 0.75) 3px solid !important;
 }
 #user-lists .list .user:hover, #waitlist .list .user {
-	background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%) !important;
+	background: linear-gradient(to right, rgba(37,185,97,05) 0%,rgba(0,0,0,0) 100%) !important;
 }
 #chat .msg .text .name, #chat .msg .text .name .name {
-    color: #FFF !important;
+    color: rgba(255,255,255) !important;
 }
 .experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
 	background: #25b961 !important;
