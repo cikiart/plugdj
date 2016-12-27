@@ -1,0 +1,168 @@
+.icon-room { 
+	width: 90px !important;
+}
+#room-name, #room-host, #now-playing-dj, #now-playing-media {
+    left: 89px !important;
+    color: #fff !important;
+    font-weight: bold;
+    text-shadow: 2px 0px 11px, #dd00ff;
+}
+.app-header, #footer-user .info, #dashboard {
+    background: rgba(0, 0, 0, 0.85) !important;
+}
+#volume .slider {
+    background-color: rgba(0, 0, 0, 0) !important;
+    box-shadow: 0px -19px 0px 6px rgba(0, 0, 0, 0), 0px 18px 0px 6px rgba(0, 0, 0, 0) !important;
+}
+#rcs-menu {
+background: rgba(0,0,0,0.5) !important;
+}
+#footer, .app-right {
+    background: rgba(0, 0, 0, 0.75) !important;
+}
+#playlist-panel, #user-view, #waitlist .list .sortable-placeholder, #room-settings {
+    background: rgba(0, 0, 0, 0.95) !important;
+}
+#now-playing-bar, #history-button, #rs-skip-button, #playlist-menu, #user-menu, #room-settings-menu, .app-right .friends, .badge-box {
+    background: none !important;
+}
+#app-menu, #app-menu .list {
+    background: rgba(0, 0, 0, 0.85) !important;
+}
+#room .app-right {
+    background: rgba(0,0,0,0.5) !important;
+}
+.header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
+    background: hsla(359,100%,35%,0.75) !important;
+}
+#app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
+    background: rgba(21, 255, 0, 0.75)!important;
+}
+.app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
+    color: rgba(40, 120, 60, 1)!important;
+}
+.icon-staff {
+    background-position: 35px 520px !important;
+}
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #ff2a00 !important;
+}
+#chat .emote, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome, #chat .cm, #chat .emote:nth-child(2n+1),#chat .message:nth-child(2n+1), #chat .moderation:nth-child(2n+1), #chat .skip:nth-child(2n+1), #chat .system:nth-child(2n+1), #chat .update:nth-child(2n+1), #chat .welcome:nth-child(2n+1), #chat .cm:nth-child(2n+1) {
+    background-color: rgba(0, 0, 0, 0.25) !important;
+}
+#chat .welcome {
+    color: #ff2a00 !important;
+}
+#chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
+    background: linear-gradient(to left, rgba(37,185,97,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
+    border-left: rgba(40, 120, 60, 0.75) 3px solid !important;
+}
+#user-lists .list .user:hover, #waitlist .list .user {
+	background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%) !important;
+}
+#chat .msg .text .name, #chat .msg .text .name .name {
+    color: #FFF !important;
+}
+.experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
+	background: #25b961 !important;
+}
+#chat-input {
+	background: rgba(21, 255, 0,0.75) !important;
+	    border: 1px solid yellow;
+}
+#chat .focused, #room-settings .focused {
+    -webkit-box-shadow: inset 0 0 0 #700303!important;
+    -moz-box-shadow: inset 0 0 0 #700303!important;
+    box-shadow: inset 0 0 0 1px #700303!important;
+} 
+#chat .msg .text .name, #chat .msg .text .name .name {
+    color: #FFF !important;
+}
+#rcs-progress-container .bar {
+    background:rgba(21, 255, 0,0.75) !important;
+}
+#user-lists .list.staff .group {
+    border-top: 1px solid rgba(40, 120, 60, 1) !important;
+    border-bottom: 1px solid rgba(40, 120, 60, 1) !important;
+    border-color:rgba(40, 120, 60, 1) !important;
+    background: rgba(40, 120, 60, 0.2) !important;
+}
+#playlist-button, #playlist-menu .menu .row.selected, #playlist-activate-button, #playlist-import:hover, .media-list .row.selected, .tab-menu button.selected, #user-menu .item.selected, #room-settings-menu .item.selected {
+    background: rgba(40, 120, 60, 0.75) !important;
+}
+.icon-check-circle, .icon-check-purple {
+    background-position: -70px -140px !important;
+}
+#playlist-menu .menu .row .count, #playlist-activate-button span {
+color: #FFF !important;
+}
+.icon-next-track {
+    background-position: -70px -175px !important;
+}
+.media-list .selected .actions {
+    background: rgba(40, 120, 60, 1) !important;
+}
+#room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
+background-position: -40px -280px !important;
+}
+#room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
+background-position: -40px -280px !important;
+}
+.communities .grid .cell .bar, .communities .grid .cell .favorite, .communities .grid .cell .meta, .communities .grid .cell .meta .host, .communities .grid .cell {
+background: #000 !important;
+}
+.communities .grid .cell:hover>.meta {
+background: rgba(0, 0, 0, 0.85) !important;
+}
+.communities .grid .cell .meta .join {
+background: rgba(30, 90, 45, 0.5) !important;
+}
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+    background: rgba(21, 255, 0,0.75) !important;
+}
+.jspDrag {
+    background: rgba(40, 120, 60, 0.65) !important;
+}
+.jspDrag:hover, .jspTrack .jspActive, .jspTrack .jspHover, .experience .levels .level.earned.avatar .label {
+    background: rgba(40, 120, 60, 0.95) !important;
+}
+/* Scrollbar */
+
+#footer-user .back, #footer-user .signup {
+    background: rgba(21, 255, 0,0.75) !important;
+    -webkit-box-shadow: inset 0 2px 0 -1px rgba(21, 255, 0,0.75) !important;
+    -moz-box-shadow: inset 0 2px 0 -1px rgba(21, 255, 0,0.75) !important;
+    box-shadow: inset 0 2px 0 -1px rgba(21, 255, 0,0.75) !important;
+}
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+background: #c42e3b !important;
+}
+div #dj-button .left {
+background: rgb(167, 175, 5)!important;
+}
+.room-background{
+	width:100% !important;
+}
+div #playlist-button{
+	background-color:rgba(21, 255, 0,0.75) !important;
+}
+div#chat-button.header-panel-button-selected{
+	background-color:rgba(21, 255, 0,0.75) !important;
+}
+.jspPane div .selected{
+background-color:rgba(21, 255, 0,0.75) !important;
+}
+div #playlist-activate-button{
+background-color:rgba(21, 255, 0,,3,0.75) !important;
+}
+
+#playlist-button, #playlist-menu .menu .row.selected{
+	background-color:rgba(21, 255, 0,0.75) !important;
+}
+#woot{
+	border-top-left-radius: 25px !important;
+}
+#meh{
+	border-top-right-radius: 25px !important;
+}
