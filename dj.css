@@ -67,7 +67,7 @@ background: rgba(0,0,0,0.5) !important;
 	background: #25b961 !important;
 }
 #chat-input {
-	background: rgba(21, 255, 0,0.75) !important;
+	background: rgba(0, 100, 10,0.75) !important;
 	    border: 1px solid yellow;
 }
 #chat .focused, #room-settings .focused {
@@ -154,7 +154,7 @@ div#chat-button.header-panel-button-selected{
 background-color:rgba(21, 255, 0,0.75) !important;
 }
 div #playlist-activate-button{
-background-color:rgba(21, 255, 0,,3,0.75) !important;
+background-color:rgba(21, 255, 0,0.75) !important;
 }
 
 #playlist-button, #playlist-menu .menu .row.selected{
