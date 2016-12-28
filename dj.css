@@ -1,7 +1,4 @@
 @import url("https://rawgit.com/TheStrangerGuy/EDT/master/Users.css");
-@import url("https://rawgit.com/TheStrangerGuy/EDT/master/WAM.css");
-@import url("https://rawgit.com/TheStrangerGuy/EDT/master/Staff.css");
-@import url("https://rawgit.com/TheStrangerGuy/EDT/master/Bot.css");
 
 .icon-room { 
 	width: 75px !important;
@@ -144,3 +141,46 @@ background: #c42e3b !important;
 #dj-button .left {
 background: #77e20b !important;
 }
+
+
+#woot .bottom, #woot.selected {
+background: #77e20b !important;
+}
+.votes-rs .title.woot {
+background: #77e20b !important;
+}
+#grab .bottom, #grab.selected {
+background: #aa74ff;
+}
+.votes-rs .title.grab {
+    background: #aa74ff !important;
+}
+#meh .bottom, #meh.selected {
+    background: #c42e3b;
+}
+.votes-rs .title.meh {
+    background: #c42e3b !important;
+}
+#woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
+    animation: pulse 1s ease infinite;
+}
+#vote .crowd-response .top .icon-woot, #user-lists .list.room .user .icon-woot {
+    background: url('https://rawgit.com/TheStrangerGuy/EDT/master/images/woot.png') !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+/* Woot Add Meh */
+
