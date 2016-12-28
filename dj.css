@@ -184,3 +184,25 @@ background: #aa74ff;
 }
 /* Woot Add Meh */
 
+
+/* cikiBot */
+[data-cid^="13720951-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/Lu8hFsK.png") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-13720951 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/Lu8hFsK.png") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="13720951-"] .msg .from .un {
+    color: #25b961 !important;
+}
+[data-cid^="13720951-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* CikiBot */
