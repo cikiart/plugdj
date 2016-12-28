@@ -1,3 +1,8 @@
+@import url("https://rawgit.com/TheStrangerGuy/EDT/master/Users.css");
+@import url("https://rawgit.com/TheStrangerGuy/EDT/master/WAM.css");
+@import url("https://rawgit.com/TheStrangerGuy/EDT/master/Staff.css");
+@import url("https://rawgit.com/TheStrangerGuy/EDT/master/Bot.css");
+
 .icon-room { 
 	width: 90px !important;
 }
