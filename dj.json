@@ -14,17 +14,17 @@
         "forceSmartVote": false
     },
     "ccc": {
-        "admin": null,
-        "ambassador": "#FF8C00",
-        "host": "rgba(195,0,3,0.75)",
-        "cohost": "rgba(195,0,3,0.75)",
-        "manager": "rgba(195,0,3,0.75)",
-        "bouncer": "rgba(195,0,3,0.75)",
-        "rdj": "rgba(195,0,3,0.75)",
-        "subscriber": "#cc9933",
-        "silversubscriber": "#cc9933",
-        "friend": "#cc9933",
-        "user": "#cc9933"
+        "admin": "#19ff00",
+        "ambassador": "#19ff00",
+        "host": "rgba(25, 255, 0)",
+        "cohost": "rgba(25,255,0,0.75)",
+        "manager": "rgba(25,255,0,0.75)",
+        "bouncer": "rgba(25,255,0,0.75)",
+        "rdj": "rgba(221,255,0,0.75)",
+        "subscriber": "#ffb200",
+        "silversubscriber": "#ffb200",
+        "friend": "#00f6ff",
+        "user": "#ffb200"
     },
     "images": {
         "background": "http://i.imgur.com/GssjWVb.png",
