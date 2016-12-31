@@ -40,6 +40,7 @@
         "silversubscriber": null
     },
     "emotes": {
+        "dayron": "http://i.imgur.com/AGsMcu4.png"
     	"emsi": "https://rawgit.com/trix0/Emsiproject/master/emsi_png.png",
     	"edt2": "https://i.imgur.com/DBtr6Tr.png",
     	"chuck": "https://i.imgur.com/nw0CkZA.gif",
@@ -75,6 +76,6 @@
         "correrichard": "http://i.imgur.com/NoBSWD5.gif",
         "plasmacannon": "http://i.imgur.com/GVYv6tj.gif",
         "pacv": "http://i.imgur.com/sZQMJRh.png" 
-        "dayron": "http://i.imgur.com/AGsMcu4.png"
+        
     }
 }
