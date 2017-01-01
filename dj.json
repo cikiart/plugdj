@@ -11,7 +11,7 @@
         "allowSmartVote": true,
         "allowEmotes": true,
         "allowShowingMehs": true,
-        "forceSmartVote": false
+        "forceSmartVote": false 
     },
     "ccc": {
         "admin": "#19ff00",
@@ -42,7 +42,7 @@
     "emotes": {
         "davodka": "http://i.imgur.com/AGsMcu4.png",
         "brno": "http://i.imgur.com/ECAmVyQ.png"
-       	"edt2": "https://i.imgur.com/DBtr6Tr.png",
+       	"edt2":  "https://i.imgur.com/DBtr6Tr.png",
     	"hatsune": "https://i.imgur.com/7c2rZBi.gif",
     	"djsona": "https://i.imgur.com/p9j9onO.gif",
     	"tosaindo": "https://i.imgur.com/X5ovb1Y.gif",
