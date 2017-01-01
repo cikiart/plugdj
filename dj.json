@@ -40,10 +40,7 @@
         "silversubscriber": null
     },
     "emotes": {
-        "davodka": "http://i.imgur.com/AGsMcu4.png",
-        "brno": "http://i.imgur.com/ECAmVyQ.png"
-       	
-    	"hatsune": "https://i.imgur.com/7c2rZBi.gif",
+        "hatsune": "https://i.imgur.com/7c2rZBi.gif",
     	"djsona": "https://i.imgur.com/p9j9onO.gif",
     	"tosaindo": "https://i.imgur.com/X5ovb1Y.gif",
     	"tom": "https://i.imgur.com/tPX2arb.png",
@@ -76,5 +73,9 @@
         "plasmacannon": "http://i.imgur.com/GVYv6tj.gif",
         "pacv": "http://i.imgur.com/sZQMJRh.png" 
         
+        "davodka": "http://i.imgur.com/AGsMcu4.png",
+        "brno": "http://i.imgur.com/ECAmVyQ.png"
+       	
+    	
     }
 }
