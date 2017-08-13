@@ -41,13 +41,13 @@ background: rgba(0,0,0,0.5) !important;
     background: rgba(40, 120, 60, 0.75)!important;
 }
 .app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
-    color: rgba(40, 120, 60, 1)!important;
+    color: rgba(119, 40, 40, 1)!important;
 }
 .icon-staff {
     background-position: 35px 520px !important;
 }
 #user-lists .header .button.staff.selected {
-    border-bottom: 1px solid #228b22 !important;
+    border-bottom: 1px solid #8b213d !important;
 }
 #chat .emote, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome, #chat .cm, #chat .emote:nth-child(2n+1),#chat .message:nth-child(2n+1), #chat .moderation:nth-child(2n+1), #chat .skip:nth-child(2n+1), #chat .system:nth-child(2n+1), #chat .update:nth-child(2n+1), #chat .welcome:nth-child(2n+1), #chat .cm:nth-child(2n+1) {
     background-color: rgba(0, 0, 0, 0.25) !important;
@@ -56,11 +56,11 @@ background: rgba(0,0,0,0.5) !important;
     color: #00ff00 !important;
 }
 #chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
-    background: linear-gradient(to left, rgba(37,185,97,0.4) 0%,rgba(0,0,0,0.75) 100%) !important;
-    border-left: rgba(40, 120, 60, 0.75) 3px solid !important;
+    background: linear-gradient(to left, rgba(185, 36, 88,0.4) 0%,rgba(0,0,0,0.75) 100%) !important;
+    border-left: rgba(119, 40, 40, 0.75) 3px solid !important;
 }
 #user-lists .list .user:hover, #waitlist .list .user {
-	background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%) !important;
+	background: linear-gradient(to right, rgba(185, 36, 88,0.2) 0%,rgba(0,0,0,0) 100%) !important;
 }
 #chat .msg .text .name, #chat .msg .text .name .name {
     color: #FFF !important;
@@ -69,7 +69,7 @@ background: rgba(0,0,0,0.5) !important;
 	background: #25b961 !important;
 }
 #chat-input {
-	background: rgba(40, 120, 60, 0.25) !important;
+	background: rgba(119, 40, 40, 0.25) !important;
 }
 #chat .focused, #room-settings .focused {
     -webkit-box-shadow: inset 0 0 0 #28783c!important;
@@ -100,7 +100,7 @@ color: #FFF !important;
     background-position: -70px -175px !important;
 }
 .media-list .selected .actions {
-    background: rgba(40, 120, 60, 1) !important;
+    background: rgba(119, 40, 52, 1) !important;
 }
 #room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
 background-position: -40px -280px !important;
@@ -119,13 +119,13 @@ background: rgba(30, 90, 45, 0.5) !important;
 }
 /* Scrollbar */
 ::-webkit-scrollbar-thumb {
-    background: rgba(40, 120, 60, 0.75) !important;
+    background: rgba(119, 40, 52, 0.75) !important;
 }
 .jspDrag {
-    background: rgba(40, 120, 60, 0.65) !important;
+    background: rgba(119, 40, 52, 0.65) !important;
 }
 .jspDrag:hover, .jspTrack .jspActive, .jspTrack .jspHover, .experience .levels .level.earned.avatar .label {
-    background: rgba(40, 120, 60, 0.95) !important;
+    background: rgba(119, 40, 52, 0.95) !important;
 }
 /* Scrollbar */
 
@@ -139,27 +139,27 @@ background: rgba(30, 90, 45, 0.5) !important;
 background: #c42e3b !important;
 }
 #dj-button .left {
-background: #77e20b !important;
+background: #e20a44 !important;
 }
 
 
 #woot .bottom, #woot.selected {
-background: #77e20b !important;
+background: #e20a44 !important;
 }
 .votes-rs .title.woot {
-background: #77e20b !important;
+background: #e20a44 !important;
 }
 #grab .bottom, #grab.selected {
-background: #aa74ff;
+background: #f9487a;
 }
 .votes-rs .title.grab {
-    background: #aa74ff !important;
+    background: #f9487a !important;
 }
 #meh .bottom, #meh.selected {
-    background: #c42e3b;
+    background: #c90e1e;
 }
 .votes-rs .title.meh {
-    background: #c42e3b !important;
+    background: #c90e1e !important;
 }
 #woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
     animation: pulse 1s ease infinite;
@@ -202,7 +202,7 @@ background: #aa74ff;
     color: #25b961 !important;
 }
 [data-cid^="13720951-"] #chat .emote {
-    background: rgba(37,185,97,0.3) !important;
-    border-left: rgb(37,185,97) 3px solid !important;
+    background: rgba(185, 36, 59,0.3) !important;
+    border-left: rgb(185, 36, 59) 3px solid !important;
 }
 /* CikiBot */
