@@ -1,5 +1,5 @@
 {
-    "room": "Zone+",
+    "room": "EMSI GAMING",
     "author": "ciki",
     "icon": "http://i.imgur.com/oOkTdv4.png",
     "css": "https://rawgit.com/cikiart/plugdj/master/dj.css",
@@ -27,7 +27,7 @@
         "user": "#ffb200"
     },
     "images": {
-        "background": "http://i.imgur.com/XsUCYiw.png",
+        "background": "http://i.imgur.com/oOkTdv4.png",
         "playback": "http://i.imgur.com/5buNMYS.png",
         "admin": null,
         "ambassador": "https://rawgit.com/TheStrangerGuy/EDT/master/images/BA.png",
